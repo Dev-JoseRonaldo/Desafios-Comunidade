@@ -1,0 +1,36 @@
+#carousel .content-area .content {
+  width: 145px;
+}
+
+#carousel .content-area .img-area img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+#carousel .content-area .description-img {
+  width: 100%;
+  height: 40px;
+
+  padding: 10px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  background-color: #ffffff;
+  fill: var(--slider-icon);
+
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25);
+  margin-bottom: 42px;
+}
+
+#carousel .content-area .description-img h2 {
+  font-size: 16px;
+  font-weight: 400;
+}

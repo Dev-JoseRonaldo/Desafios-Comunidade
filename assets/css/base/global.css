@@ -4,6 +4,7 @@
   --text-white: #ffffff;
   --search-color: #b2b2b2;
   --text-input: #737373;
+  --slider-icon: #cccccc;
 
   --primary-font: 'Inter', sans-serif;
 }
@@ -16,8 +17,7 @@
   font-family: var(--primary-font);
 }
 
-main {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+body {
+  margin: 0 auto;
+  max-width: 400px;
 }
