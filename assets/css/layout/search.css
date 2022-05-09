@@ -1,0 +1,34 @@
+.home__inputBox {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.inputBox__input {
+  width: 90%;
+  height: 50px;
+  padding: 15px 20px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: none;
+  outline: none;
+
+  color: var(--search-color);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.inputBox__search {
+  width: 20%;
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--text-white);
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+
+  fill: var(--search-color);
+}

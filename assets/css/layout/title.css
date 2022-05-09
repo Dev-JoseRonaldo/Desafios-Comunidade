@@ -1,0 +1,6 @@
+.home__title {
+  color: var(--text-white);
+  font-weight: 700;
+  font-size: 33px;
+  max-width: 187px;
+}

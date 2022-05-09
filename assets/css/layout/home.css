@@ -1,0 +1,11 @@
+#home {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  height: 363px;
+  width: 400px;
+  background: url(../../img/fundo.png) no-repeat bottom right;
+  background-size: cover;
+  padding: 45px 40px 35px;
+}
