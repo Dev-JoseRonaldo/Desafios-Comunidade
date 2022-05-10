@@ -26,7 +26,7 @@ Bibliotecas
 
 ## 💻 Projeto
 
-Desafio n°1, promovido pela comunidade Dev World do telegram, realizado no dia 09/05/2022. O desafio consiste em construir a tela de um aplicativo, seguindo o layout, disponibilizado no figma, de forma mais fiél possível.
+Desafio n°1, promovido pela comunidade Dev World, realizado no dia 09/05/2022. O desafio consiste em construir a tela de um aplicativo, seguindo o layout, disponibilizado no figma, de forma mais fiél possível.
 
 Você pode visualizar o projeto no ar através [desse link](https://joseronaldo-devworld-desafio1.netlify.app/).
 
