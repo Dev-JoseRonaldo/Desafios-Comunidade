@@ -5,6 +5,10 @@
   --search-color: #b2b2b2;
   --text-input: #737373;
   --slider-icon: #cccccc;
+  --bg-footer: #222222;
+  --text-footer: #c7c7c7;
+  --before-footer: rgba(196, 196, 196, 0.4);
+  --border-footer: rgba(196, 196, 196, 0.15);
 
   --primary-font: 'Inter', sans-serif;
 }
